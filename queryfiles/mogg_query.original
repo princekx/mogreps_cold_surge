@@ -1,0 +1,13 @@
+begin
+stash=15201
+blev=(850.0,200.0)
+lbft=fctime
+min=[0..29]
+pp_file="filemoose"
+end 
+begin
+stash=02205
+lbft=fctime
+min=[0..29]
+pp_file="filemoose"
+end 

@@ -1,0 +1,7 @@
+begin
+  stash=(15201, 15202, 16202)
+  blev=(850.0, 200.0)
+  lbft=fctime
+  lbproc=0
+  pp_file="filemoose"
+end
